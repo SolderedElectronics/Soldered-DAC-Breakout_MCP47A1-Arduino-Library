@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['initializenative_0',['initializeNative',['../class_sensor.html#adb537c76173019fddf84b2d89e6c6559',1,'Sensor::initializeNative()'],['../class_e_a_s_y_c___s_o_l_d_e_r_e_d___l_i_b_s_1_1_easy_c.html#ac5e452bb3e1a549f4947bac4b5fe430e',1,'EASYC_SOLDERED_LIBS::EasyC::initializeNative()']]]
+  ['getbyte_0',['getByte',['../class_m_c_p47_a1___s_o_l_d_e_r_e_d.html#af5d3497e885d3e260ee0fabd5da84bbc',1,'MCP47A1_SOLDERED']]],
+  ['getvoltage_1',['getVoltage',['../class_m_c_p47_a1___s_o_l_d_e_r_e_d.html#a21110786f303b1a2ca10c8d632162cf8',1,'MCP47A1_SOLDERED']]]
 ];

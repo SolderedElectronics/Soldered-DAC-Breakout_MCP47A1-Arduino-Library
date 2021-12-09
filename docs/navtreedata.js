@@ -24,9 +24,13 @@
 */
 var NAVTREE =
 [
-  [ "16x2 easyC LCD Library", "index.html", [
-    [ "NAZIV PROIZVODA Arduino library", "index.html", null ],
+  [ "MCP47A1 DAC Breakout Arduino library", "index.html", [
     [ "Namespaces", "namespaces.html", [
+      [ "Repository Contents", "index.html#autotoc_md1", null ],
+      [ "Hardware design", "index.html#autotoc_md2", null ],
+      [ "Documentation", "index.html#autotoc_md3", null ],
+      [ "About Soldered", "index.html#autotoc_md4", null ],
+      [ "Open-source license", "index.html#autotoc_md5", null ],
       [ "Namespace List", "namespaces.html", "namespaces_dup" ]
     ] ],
     [ "Classes", "annotated.html", [
@@ -47,7 +51,7 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"_generic-easy_c-_s_o_l_d_e_r_e_d_8cpp.html"
+"_m_c_p47_a1-_s_o_l_d_e_r_e_d_8cpp.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
