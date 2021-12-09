@@ -21,7 +21,8 @@ MCP47A1_SOLDERED::MCP47A1_SOLDERED()
 }
 
 /**
- * @brief                   Initializer function for MCP47A1 DAC library. Sets up I2C address and inits I2C communication.
+ * @brief                   Initializer function for MCP47A1 DAC library. Sets up I2C address and inits I2C
+ * communication.
  */
 void MCP47A1_SOLDERED::initializeNative()
 {
@@ -66,7 +67,7 @@ void MCP47A1_SOLDERED::setByte(uint8_t _byte)
 {
     if (_byte > 64)
         return;
-    const uint8_t _reg[2] {0, _byte};
+    const uint8_t _reg[2]{0, _byte};
     sendData(_reg, 2);
 }
 
