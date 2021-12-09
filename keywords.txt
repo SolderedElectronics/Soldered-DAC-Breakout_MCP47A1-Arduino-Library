@@ -10,7 +10,12 @@
 # Methods and Functions (KEYWORD2)
 ##################################################
 
-begin	KEYWORD2
+begin	    KEYWORD2
+dacVcc	    KEYWORD2
+setVoltage  KEYWORD2
+setByte     KEYWORD2
+getByte     KEYWORD2
+getVoltage  KEYWORD2
 
 ##################################################
 # Constants (LITERAL1)
