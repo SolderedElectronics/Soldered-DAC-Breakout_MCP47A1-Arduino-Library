@@ -6,7 +6,7 @@
  *
  *
  * @copyright GNU General Public License v3.0
- * @authors     @ soldered.com
+ * @authors   Borna Biro @ soldered.com
  ***************************************************/
 
 #include "easyC.h"
