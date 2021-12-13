@@ -15,7 +15,7 @@ MCP47A1 1 Channel 6 bit DAC breakout board from Soldered, compliant to [easyC ec
 - ***other*** - *keywords* file highlights function words in your IDE, *library.properties* enables implementation with Arduino Library Manager.
 
 ### Hardware design
-You can find hardware design for this board in DAC 6-bit 1-channel MCP47A1 breakout hardware repository
+You can find hardware design for this board in DAC 6-bit 1-channel MCP47A1 breakout hardware repository.
 
 ### Documentation
 
