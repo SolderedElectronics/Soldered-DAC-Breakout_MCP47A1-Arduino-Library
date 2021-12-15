@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['err_0',['err',['../class_e_a_s_y_c___s_o_l_d_e_r_e_d___l_i_b_s_1_1_easy_c.html#a6f87367a851167043e2a67f6c0635683',1,'EASYC_SOLDERED_LIBS::EasyC']]]
+  ['err_0',['err',['../class_e_a_s_y_c___s_o_l_d_e_r_e_d___m_c_p47_a1___d_a_c_1_1_easy_c.html#ada717427684b99b5cbaa1922674b7686',1,'EASYC_SOLDERED_MCP47A1_DAC::EasyC']]]
 ];
