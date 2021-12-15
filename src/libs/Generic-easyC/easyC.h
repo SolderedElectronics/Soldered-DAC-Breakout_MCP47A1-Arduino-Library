@@ -18,7 +18,7 @@
 #define ANALOG_READ_REG  0
 #define DIGITAL_READ_REG 1
 
-namespace EASYC_SOLDERED_LIBS
+namespace EASYC_SOLDERED_MCP47A1_DAC
 {
 
 class EasyC

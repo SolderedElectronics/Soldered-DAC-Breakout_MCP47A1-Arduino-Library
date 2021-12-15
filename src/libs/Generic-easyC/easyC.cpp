@@ -11,7 +11,7 @@
 
 #include "easyC.h"
 
-namespace EASYC_SOLDERED_LIBS
+namespace EASYC_SOLDERED_MCP47A1_DAC
 {
 
 /**
