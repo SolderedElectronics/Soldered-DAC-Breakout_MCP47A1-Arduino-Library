@@ -13,7 +13,7 @@
 #define __MCP47A1_SOLDERED__
 
 #include "Arduino.h"
-#include "libs/Generic-easyC/easyC.h"
+#include "libs/Generic-easyC/easyC.hpp"
 
 #define MCP47A1_I2C_ADDRESS 0x5C
 
