@@ -25,9 +25,7 @@
 var NAVTREE =
 [
   [ "MCP47A1 DAC Breakout Arduino library", "index.html", [
-    [ "DAC 6-bit 1-channel MCP47A1 breakout Arduino library", "index.html", [
-      [ "Have fun!", "index.html#autotoc_md8", null ]
-    ] ],
+    [ "DAC 6-bit 1-channel MCP47A1 breakout Arduino library", "index.html", "index" ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],
