@@ -6,9 +6,9 @@
 
 | ![DAC 6-bit 1-channel MCP47A1 breakout](https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg) |
 | :------------------------------------------------------------------------------------------------------------: |
-|                      [DAC 6-bit 1-channel MCP47A1 breakout](https://www.solde.red/333052)                      |
+|                      [DAC 6-bit 1-channel MCP47A1 breakout](https://solde.red/333052)                      |
 
-This device uses MCP4725 which is a single channel, 6-bit digital to analog converter with I2C compatible serial interface. There's no integrated EEPROM memory which would allow DAC register and configuration bit values to be saved at powered off.
+This device uses MCP4725 which is a single channel, 6-bit digital to analog converter with I2C compatible serial interface. There's no integrated EEPROM memory which would allow DAC register and configuration bit values to be saved when powered off.
 
 This board comes with soldered easyC adapter and enables simple connections. You can find more about easyC at this link.
 
