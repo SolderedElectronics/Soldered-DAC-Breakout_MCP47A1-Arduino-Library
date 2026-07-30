@@ -4,7 +4,7 @@
 [![Arduino Library Manager Compatibility](https://github.com/SolderedElectronics/Soldered-DAC-Breakout_MCP47A1-Arduino-Library/actions/workflows/arduino_lint.yml/badge.svg?branch=dev)](https://github.com/SolderedElectronics/Soldered-DAC-Breakout_MCP47A1-Arduino-Library/actions/workflows/arduino_lint.yml)
 
 
-| ![DAC 6-bit 1-channel MCP47A1 breakout](https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg) |
+| ![DAC 6-bit 1-channel MCP47A1 breakout](https://soldered.com/cdn/shop/files/333052_featured-photo_f9cd3a.jpg) |
 | :------------------------------------------------------------------------------------------------------------: |
 |                      [DAC 6-bit 1-channel MCP47A1 breakout](https://solde.red/333052)                      |
 
